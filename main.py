@@ -1,3 +1,6 @@
+#
+# Dice
+#
 import random
 
 d1 = random.Random()
